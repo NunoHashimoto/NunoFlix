@@ -1,0 +1,57 @@
+body {
+    color: white;
+    background: darkred;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 145, 0);
+}
+
+section {
+    background: rgb(11, 6, 47, 1);
+    padding-bottom: 88px;
+    padding-top: 88px;
+    display: flex;
+    justify-content: center;
+    border-bottom: solid 2px rgb(255, 255, 255)
+    
+
+}
+
+.minetexto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    margin: 0px;
+    background: darkred;
+    color: white;
+    border-bottom: solid 2px white;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.tumbmeio {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+img {
+    height: 300px;
+}
